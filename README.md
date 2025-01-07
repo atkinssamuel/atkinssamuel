@@ -20,8 +20,10 @@
 - University of Toronto *MASc. Electrical & Computer Engineering*, 2022
 - University of Toronto *BASc. Engineering Science - Robotics*, 2020
 
-[Reinforcement Learning for Corporate Bond Trading: A Sell-Side Perspective](https://arxiv.org/abs/2406.12983), Atkins, S., Fathi, A., Assefa, S. (2024). 
-(Patent) Automated Pipeline for Training Language Models, Domeniconi, G., Fathi, A., Atkins, S., Assefa, S., et. al U.S. Bank (2024)
+#### Research
+
+- [Reinforcement Learning for Corporate Bond Trading: A Sell-Side Perspective](https://arxiv.org/abs/2406.12983), Atkins, S., Fathi, A., Assefa, S. (2024). 
+- (Patent) Automated Pipeline for Training Language Models, Domeniconi, G., Fathi, A., Atkins, S., Assefa, S., et. al U.S. Bank (2024)
 
 If you're looking for a business partner or research collaborator, reach out to me at [s.m.atkins73@gmail.com](mailto:s.m.atkins73@gmail.com) or connect with me on LinkedIn: [/in/atkinssamuel](https://www.linkedin.com/in/atkinssamuel/). 
 
