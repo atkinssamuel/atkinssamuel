@@ -9,9 +9,8 @@
 
 #### Education
 
-- **University of Toronto** *BASc. Engineering Science - Robotics, 2020*
 - **University of Toronto** *MASc. Electrical & Computer Engineering, 2022*
-
+- **University of Toronto** *BASc. Engineering Science - Robotics, 2020*
 
 If you're looking for a business partner or research collaborator, reach out to me at [s.m.atkins73@gmail.com](mailto:s.m.atkins73@gmail.com) or connect with me on LinkedIn: [/in/atkinssamuel](https://www.linkedin.com/in/atkinssamuel/). 
 
