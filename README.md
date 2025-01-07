@@ -1,3 +1,11 @@
+#### Interests
+
+- Quantitative Finance
+- Reinforcement Learning
+- Applications of Robotics / Technology in Sport
+- Video and Audio Processing
+- Applications of LLMs
+
 #### Work Experience
 
 - US Bank AI Research (*Quantitative Researcher*), 2024-
