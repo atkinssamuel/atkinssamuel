@@ -1,6 +1,7 @@
 #### Interests
 
 - Quantitative Finance
+- Trading Systems
 - Reinforcement Learning
 - Applications of Robotics / Technology in Sport
 - Video and Audio Processing
@@ -22,6 +23,7 @@
 
 #### Research
 
+- (Patent) Controlled Probabilistic Sentence Space Expansion, Atkins, S., Domeniconi, G., Fathi, A. U.S. Bank (2025).
 - [Reinforcement Learning for Corporate Bond Trading: A Sell-Side Perspective](https://arxiv.org/abs/2406.12983), Atkins, S., Fathi, A., Assefa, S. (2024). 
 - (Patent) Automated Pipeline for Training Language Models, Domeniconi, G., Fathi, A., Atkins, S., Assefa, S., et. al U.S. Bank (2024)
 
