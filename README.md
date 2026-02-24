@@ -1,8 +1,8 @@
 #### Interests
 
+- Agentic AI & LLMs
 - Machine Learning & Reinforcement Learning
 - Quantitative Finance & Trading Systems
-- Agentic AI & LLMs
 - Applications of Robotics / Technology in Sport
 - Hockey & Over-the-Board Chess
 
