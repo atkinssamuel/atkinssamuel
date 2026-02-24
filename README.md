@@ -1,6 +1,3 @@
-#### Portfolio
-[https://atkinssamuel.com](https://atkinssamuel.com)
-
 #### Interests
 
 - Machine Learning & Reinforcement Learning
