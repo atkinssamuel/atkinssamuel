@@ -4,6 +4,7 @@
 - Quantitative Finance & Trading Systems
 - Agentic AI & LLMs
 - Applications of Robotics / Technology in Sport
+- Hockey & Over-the-Board Chess
 
 #### Work Experience
 
