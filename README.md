@@ -11,6 +11,9 @@
 - US Bank AI CoE (*VP of Quantitative Research*), 2024–
 - Lorica Cybersecurity (*Software Engineer, ML Inference*), 2022–2024
 - RBC Capital Markets (*AI Scientist → Manager, ML Validation*), 2021–2022
+- Blue Sky Solar Racing (*Firmware Developer*), 2020–2021
+- Hyperview DCIM (*Software Developer Co-op*), 2018–2019
+- Millson Custom Solutions (*R&D Co-op*), 2017
 
 #### Education
 
